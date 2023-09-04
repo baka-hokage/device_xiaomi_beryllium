@@ -23,4 +23,4 @@ Camera  | 12 MP + 5MP, dual pixel PDAF, dual-LED (dual tone) flash
 
 ## Device picture
 
-![Xiaomi Pocophone F1](https://xiaomi-mi.com/uploads/CatalogueImage/01B_17130_1534951225.jpg "Pocophone F1 in black")
+![Xiaomi Pocophone F1](https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/09/Xiaomi-Poco-F1.jpg "Pocophone F1 in black")
